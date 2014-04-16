@@ -1,4 +1,5 @@
 call-log
 ========
 
-Demo applicaiton to get all the call history programmatically from andorid phone.
+Demo application to get all the call history pragmatically from android phone.
+
